@@ -1,5 +1,4 @@
 # pwa-text-editor [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-To build a  single-page text editor that runs in the browser and that meets the PWA criteria(client, server, indexDB, serviceworker webpack, lighthouse)
 
 ![PWA](https://img.shields.io/badge/PWA-5BB974.svg?style=for-the-badge)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-FFA518.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
@@ -9,13 +8,17 @@ To build a  single-page text editor that runs in the browser and that meets the 
 ![Cache](https://img.shields.io/badge/Cache-FFCA28.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Server](https://img.shields.io/badge/Server-6DB33F.svg?style=for-the-badge)
 ![Client](https://img.shields.io/badge/Client-35495E.svg?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.ecma-international.org/ecma-262/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
  
 ## Description
 <br>
-This is a CMS-style blog site where developers can publish their blog posts and comment on other developers' posts. The application follows the Model-View-Controller (MVC) paradigm in its architectural structure and uses Handlebars.js as the templating language, Sequelize as the Object-Relational Mapping (ORM) tool, and the express-session npm package for authentication. The app is deployed on Heroku.
+To build a single-page text editor that runs in the browser and that meets the PWA criteria(client, server, indexDB, serviceworker webpack, lighthouse).The app is deployed on Heroku.
 <br>
 
 
