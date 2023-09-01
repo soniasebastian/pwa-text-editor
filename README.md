@@ -38,16 +38,11 @@ To install application locally, follow these steps:
 
 * Clone the repository to your local machine.
 * Run npm install to install the required dependencies.
-* Set up your MySQL database by running the provided SQL files to create the necessary tables and database.
-* Create a .env file in the root directory and provide the following environment variables:
-* DB_NAME=your_database_name
-* DB_USER=your_database_user
-* DB_PASSWORD=your_database_password
-* SESSION_SECRET=your_session_secret_key
+
 
 ## Usage
 * Run npm start to start the server and launch the application.
-* Visit http://localhost:3001 in your web browser to access the Tech Blog.
+* Visit http://localhost:3000 in your web browser to access the PWA-Text-Editor.
 
 ## User Story
 ```
@@ -86,18 +81,22 @@ THEN I should have proper build scripts for a webpack application
 <br>
 
 
-
 ## Screenshots
+* manifest
+  
+![manifest](https://github.com/soniasebastian/pwa-text-editor/assets/130253087/d3f31fdc-6b73-4f46-a871-9d0eafe56938)
 
+* service worker
+  
+![service worker](https://github.com/soniasebastian/pwa-text-editor/assets/130253087/cc0d114d-1e33-4218-9fd1-f1309c2b40e1)
 
-
-
-
-
+* storage
+* 
+![storage](https://github.com/soniasebastian/pwa-text-editor/assets/130253087/ae704824-029a-4892-aead-44b2f4fb8a49)
 
 
 ## Links
-The URL of deployed application in Heroku (https://powerful-brushlands-30942-1c181b1eee8a.herokuapp.com/)
+The URL of deployed application in Heroku (https://agile-beyond-46723-89e26365736e.herokuapp.com/)
 
 
 The URL of the github repository (https://github.com/soniasebastian/pwa-text-editor)
